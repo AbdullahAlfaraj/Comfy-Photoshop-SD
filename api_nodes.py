@@ -298,7 +298,7 @@ class GaussianLatentImage:
         return ({"samples": latent},)
 
 
-class LatentBatch:
+class APS_LatentBatch:
     @classmethod
     def INPUT_TYPES(s):
         return {"required": {"latent1": ("LATENT",), "latent2": ("LATENT",)}}
@@ -1074,7 +1074,7 @@ NODE_CLASS_MAPPINGS = {
     "LoadImageBase64": LoadImageBase64,
     "LoadLorasFromPrompt": LoadLorasFromPrompt,
     "GaussianLatentImage": GaussianLatentImage,
-    "LatentBatch": LatentBatch,
+    "APS_LatentBatch": APS_LatentBatch,
     "ControlnetUnit": ControlnetUnit,
     "ControlNetScript": ControlNetScript,
     "ContentMaskLatent": ContentMaskLatent,
@@ -1089,7 +1089,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "LoadImageBase64": "load image from base64 string",
     "LoadLorasFromPrompt": "Load Loras From Prompt",
     "GaussianLatentImage": "Generate Latent Noise",
-    "LatentBatch": "Combine Two Latents Into Batch",
+    "APS_LatentBatch": "Combine Multiple Latents Into Batch",
     "ControlnetUnit": "General Purpose Controlnet Unit",
     "ControlNetScript": "ControlNet Script",
     "ContentMaskLatent": "Content Mask Latent",
