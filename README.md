@@ -20,3 +20,24 @@ Download this extension via the [ComfyUI Manager](https://github.com/ltdrdata/Co
 https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/4aa64420-345d-4fee-8f48-c1e92bd42348
 
 5) Similarly install (comfyui_controlnet_aux)[https://github.com/Fannovel16/comfyui_controlnet_aux] from ComfyUI-Manager to use controlnet
+
+
+
+
+# Load Custom ComfyUI Workflows in Photoshop
+
+1. **Load Workflow**: Open your workflow in ComfyUI. Make sure it's error-free.
+
+2. **Convert to API**: Save the workflow as an API in JSON format. Use 'Save (API Format)', not 'Save'. See an example.
+
+![image](https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/c768fefe-b151-4fdf-a598-1398b51b13c9)
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/ebe571dc-74e1-4a95-bda9-2763d88eb084
+
+3. **Move API File**: Transfer the API JSON file to a folder of your choice, only include json files that are made using this guide. Here's an image for reference.
+![image](https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/5c7a5c2b-3e9e-4039-abf9-0539000fedc5)
+
+4. **Load Workflow in Photoshop**: Load your custom workflow within Photoshop. Here's an example.
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/64383557-32a2-4836-85e3-1daa9d22ce2e
+
