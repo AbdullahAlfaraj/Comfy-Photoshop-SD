@@ -41,3 +41,30 @@ https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/ebe571dc-74
 
 https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/64383557-32a2-4836-85e3-1daa9d22ce2e
 
+# How to Use:
+## Txt2Img with Hires fix:
+
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/748aefc9-f75f-4581-9c8d-c796c5cddaba
+
+## Img2Img with Hires fix:
+
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/4b000584-672c-44f5-80a0-717eac02af76
+
+## Pure Img2Img :
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/3c934dad-2a13-4d58-80b5-3e5179ec1420
+
+## Pure Inpainting:
+
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/ccdb9b8a-a63f-47da-9502-e108a630e5af
+
+## Outpainting with Controlnet:
+
+
+
+https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD/assets/7842232/e0bcf679-59cd-4a44-8de7-04f0f0dd01fe
+
+
