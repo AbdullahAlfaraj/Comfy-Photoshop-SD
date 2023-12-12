@@ -2,7 +2,7 @@
 Download this extension via the [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) to establish a connection between ComfyUI and the [Auto-Photoshop-SD](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) plugin in Photoshop.
 
 # How to Install:
-1) Install [Auto-Photoshop-SD](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) `v1.4.0` (to be released on 11/30/2023) -> using either installation Method 1 (.ccx) or Method 2 (.zip) file. 
+1) Install [Auto-Photoshop-SD](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) `v1.4.0`  or a later version -> using either installation Method 1 (.ccx) or Method 2 (.zip) file. 
 **Important: skip any instruction related to Automatic1111**
 
 2. Install ComfyUI-Manager inside of ComfyUI
